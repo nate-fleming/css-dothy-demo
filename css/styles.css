@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+}
+
+nav a {
+    color: red;
+}
+
+article > p {
+    background-color: yellowgreen;
+}
+
+#topnav {
+    background-color: white;
+}
+
+div + p {
+    background-color: pink;
+}
+
+.active {
+    color: blanchedalmond;
+}
+
+div ~ p {
+    background-color: teal;
+}
+
+footer a{
+    color: darkorchid;
+}
+
+
+a {
+    color: darkgreen;
+}
